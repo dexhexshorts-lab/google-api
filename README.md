@@ -1,2 +1,2 @@
-# google-api
-App is used for google api (mail, calender, drive, ...)
+# hermes
+App is used to connect between hermes and google api (mail, calender, drive, ...)
